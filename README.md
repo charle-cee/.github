@@ -15,14 +15,15 @@ graph TD
     D --> G[Brand Identity]
 Services Offered:
 
-Web Development: Custom websites, web apps, and management systems
+Web Development
+📌 Custom websites and web apps
+📌 Management systems
+📌 Database solutions
 
-Graphic Design:
-<img src="https://img.shields.io/badge/Logo_Design-FF9E0F?style=flat-square" />
-<img src="https://img.shields.io/badge/Branding-5865F2?style=flat-square" />
-<img src="https://img.shields.io/badge/Marketing_Materials-ED1C24?style=flat-square" />
-
-IT Solutions: Database systems and infrastructure
+Graphic Design
+🎨 Logo & Brand Identity
+📇 Business Cards
+📑 Marketing Materials
 
 <!-- PROJECT SHOWCASE -->
 🚀 Portfolio Highlights
@@ -34,12 +35,9 @@ Malawi Job Portal	Job vacancy platform with SMS verification	PHP, MySQL, Twilio 
 🎓 Academic Background
 Bachelor of Science in Computer Science
 *University of Malawi (2020-2023)*
-
-Graduated with Credit
-
-Specialization: Software Engineering & Systems Architecture
-
-Key Courses: Database Systems, Web Technologies, Graphics Design
+✔ Graduated with Credit
+✔ Specialization: Software Engineering
+✔ Relevant Courses: Database Systems, Web Technologies
 
 <!-- TECH STACK -->
 🛠️ Technical Expertise
@@ -49,20 +47,16 @@ PHP
 JavaScript
 MySQL
 
-Design
+Design Tools
 Photoshop
 Figma
 
-DevOps
-Linux
-cPanel
-
 </div><!-- STATS -->
 📊 GitHub Analytics
-<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=charle-cee&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=charle-cee&theme=radical&hide_border=true" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=charle-cee&theme=react-dark&hide_border=true&area=true" width="100%"/> </div><!-- CONTACT -->
+<div align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=charle-cee&show_icons=true&theme=radical&hide_border=true" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=charle-cee&theme=radical&hide_border=true" /> </div><!-- CONTACT -->
 🌐 Connect
-<div align="center"> <a href="https://charleceegraphix.great-site.net"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/develooper"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:charleceegraphix@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </div><!-- MISSION -->
+<div align="center"> <a href="https://charleceegraphix.great-site.net"> <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/> </a> <a href="https://www.linkedin.com/in/develooper"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="mailto:charleceegraphix@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div><!-- MISSION -->
 🎯 Professional Mission
 "To leverage technology and design expertise in creating solutions that empower Malawian businesses and educational institutions through innovative digital transformation."
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling" /> </div> ```
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" /> </div>
