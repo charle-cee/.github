@@ -1,3 +1,4 @@
+<!-- PROFILE README -->
 <!-- PROFILE HEADER -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=20C20E&width=520&lines=Charles+Chidule;Founder+%40+Charle+Cee+Graphix;BSc+Computer+Science+With+Credit;Full-Stack+Developer+%7C+Graphic+Designer" alt="Animated Header" />
